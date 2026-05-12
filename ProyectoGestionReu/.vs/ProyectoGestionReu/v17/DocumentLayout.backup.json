@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\forminvestigador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\forminvestigador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formlidermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formlidermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|c:\\users\\reverie pink\\desktop\\proyectoreu\\proyectogestionreu\\proyectogestionreu\\forminvestigador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\forminvestigador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formlider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formlidermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formlidermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formagregarreu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formagregarreu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formagregarreu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formagregarreu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\formagregarreu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\formagregarreu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\reunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\reunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\proyectogestionreu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD42F02B-190D-47C1-9FA9-601D24785AE8}|ProyectoGestionReu\\ProyectoGestionReu.csproj|solutionrelative:proyectogestionreu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 356,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLider.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLider.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormLider.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLider.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\FormLider.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAewCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:43:24.473Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionReu\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:03:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLidermenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLidermenu.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormLidermenu.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLidermenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionReu\\FormLidermenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:49:05.214Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormLidermenu.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLidermenu.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormLidermenu.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLidermenu.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\FormLidermenu.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAjwEcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:49:29.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLider.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLider.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormLider.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormLider.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionReu\\FormLider.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:43:18.876Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInvestigador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormInvestigador.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormInvestigador.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormInvestigador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionReu\\FormInvestigador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:41:07.541Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInvestigador.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormInvestigador.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormInvestigador.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormInvestigador.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\FormInvestigador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:41:12.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAgregarReu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormAgregarReu.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormAgregarReu.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormAgregarReu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoGestionReu\\FormAgregarReu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:39:57.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAgregarReu.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormAgregarReu.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormAgregarReu.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormAgregarReu.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\FormAgregarReu.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAABkBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:40:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormAgregarReu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormAgregarReu.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\FormAgregarReu.Designer.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\FormAgregarReu.Designer.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\FormAgregarReu.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwDkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T01:37:38.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reunion.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\Reunion.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\Reunion.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\Reunion.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\Reunion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T01:57:56.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoGestionReu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Reverie Pink\\Desktop\\ProyectoReu\\ProyectoGestionReu\\ProyectoGestionReu\\Form1.cs",
+              "RelativeToolTip": "ProyectoGestionReu\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:02:55.457Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
