@@ -296,6 +296,7 @@
             this.BackgroundImage = global::ProyectoGestionReu.Properties.Resources.fondomind;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(857, 505);
+            this.ControlBox = false;
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.btnAtras);

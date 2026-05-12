@@ -197,6 +197,7 @@
             this.BackgroundImage = global::ProyectoGestionReu.Properties.Resources.fondomind;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(433, 638);
+            this.ControlBox = false;
             this.Controls.Add(this.cboDuracion);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.chkInvestigadores);
@@ -210,7 +211,6 @@
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.txtMotivo);
             this.Name = "FormAgregarReu";
-            this.Text = "FormAgregarReu";
             this.Load += new System.EventHandler(this.FormAgregarReu_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -67,17 +67,19 @@ namespace Gestion_Reu
             var vistaReuniones = conexion.GetCollection<BsonDocument>("Reun,se,u");
 
             var reuniones = vistaReuniones.Find(new BsonDocument()).ToList();
-
+           
             var lista = reuniones
                 .Where(r => r["infoInvestigadores"].AsBsonArray.Any(i => i["nombreUsuario"].AsString == _usuario.nombreUsuario))
                 .Select(r => new
                 {
                     Codigo = r["codigoReunion"].ToInt32(),
                     Fecha = r["fechaReunion"].ToUniversalTime().ToLocalTime().ToString("dd/MM/yyyy"),
-                    Hora = r["horaReunion"].ToUniversalTime().ToLocalTime().ToString("HH:mm"),
+                    HoraInicio = r["horaInicio"].ToUniversalTime().ToLocalTime().ToString("HH:mm"),
+                    HoraFin = r["horaFin"].ToUniversalTime().ToLocalTime().ToString("HH:mm"),
                     Motivo = r["motivoReunion"].AsString,
                     Lider = r["infoLider"]["nombreUsuario"].AsString,
-                    Semillero = r["infoSemillero"]["nombreSemillero"].AsString
+                    Semillero = r["infoSemillero"]["nombreSemillero"].AsString,
+                    Estado = r["estadoReunion"].AsString
                 }).ToList();
 
             dataGridView1.AutoGenerateColumns = true;

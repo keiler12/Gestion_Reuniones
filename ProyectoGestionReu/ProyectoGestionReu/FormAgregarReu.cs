@@ -139,9 +139,14 @@ namespace Gestion_Reu
             chkInvestigadores.Items.Clear();
             foreach (var inv in investigadores)
             {
-                if (!investigadoresOcupados.Contains(inv.codigoUsuario))
+
+                if (esEdicion && reunionEditar.codigosInvestigadores.Contains(inv.codigoUsuario))
+                    chkInvestigadores.Items.Add(inv, false);
+                else if (!investigadoresOcupados.Contains(inv.codigoUsuario))
                     chkInvestigadores.Items.Add(inv, false);
             }
+
+
 
             chkInvestigadores.DisplayMember = "nombreUsuario";
         }
